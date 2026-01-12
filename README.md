@@ -1,4 +1,9 @@
 > [!NOTE]
+> **EVOLUTION IN PROGRESS**: This repository is currently undergoing a total transformation from `oh-my-opencode` to **[Neural Forge](./NEURAL_FORGE_BLUEPRINT.md)** - a Physics-Math-Proof-Driven Coding Intelligence.
+>
+> All legacy `oh-my-opencode` features are still functional during the transition. See the [Blueprint](./NEURAL_FORGE_BLUEPRINT.md) for the 2100 AD roadmap.
+
+> [!NOTE]
 >
 > [![Sisyphus Labs — Sisyphus is the agent that codes like your team.](./.github/assets/sisyphuslabs.png?v=2)](https://sisyphuslabs.ai)
 > > **We're building a fully productized version of Sisyphus to define the future of frontier agents. <br />Join the waitlist [here](https://sisyphuslabs.ai).**
