@@ -51,7 +51,7 @@
   "homepage": "https://github.com/code-yeongyu/oh-my-opencode#readme",
   "dependencies": {
     "@ast-grep/cli": "^0.40.0",
-    "@ast-grep/napi": "^0.40.0",
+    "@ast-grep/napi": "^0.40.5",
     "@clack/prompts": "^0.11.0",
     "@code-yeongyu/comment-checker": "^0.6.1",
     "@modelcontextprotocol/sdk": "^1.25.1",

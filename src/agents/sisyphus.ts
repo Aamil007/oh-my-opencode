@@ -626,7 +626,10 @@ export function createSisyphusAgent(
     maxTokens: 64000,
     prompt,
     color: "#00CED1",
-    tools: { call_omo_agent: false },
+    tools: {
+      call_omo_agent: false,
+      include: ["complexity_metric"]
+    },
   }
 
   if (isGptModel(model)) {
